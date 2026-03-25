@@ -22,6 +22,10 @@ Email Me 👉 ✉️ **arzaulhaquesbg@gmail.com** For Collaboration/Project or A
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arzaulsbg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=arzaulsbg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arzaulsbg&theme=dark&hide_border=false)
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arzaulsbg&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arzaulsbg&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arzaulsbg&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
