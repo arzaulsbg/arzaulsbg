@@ -1,6 +1,11 @@
 # 💫 Hi 👋, I'm Mohd. Arzaul Haque  
 **AI/ML Student | DSA Problem Solver | Full Stack Developer | Salesforce Certified**
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&color=8BE9FD&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Full+Stack+Developer;DSA+Problem+Solver;Salesforce+Certified;Building+Impactful+Projects" />
+</p>
 
+---
 ---
 
 ## 👨‍💻 About Me  
