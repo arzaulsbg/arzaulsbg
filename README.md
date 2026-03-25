@@ -53,13 +53,7 @@
 
 ---
 
-## 🌐 Connect  
-
-<p align="center">
-  <a href="mailto:arzaulhaquesbg@gmail.com"><img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/arzaulaque"><img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ArzaulHaque123"><img src="https://img.shields.io/badge/X-0f2027?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ---
 
 ---
 
