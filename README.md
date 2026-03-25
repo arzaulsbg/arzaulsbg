@@ -15,7 +15,7 @@
 
 ---
 ## 🌐 Connect With Me  
-<p align="center">
+<p >
   <a href="https://linkedin.com/in/arzaulaque"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:arzaulhaquesbg@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/arzaulaque40"><img src="https://skillicons.dev/icons?i=instagram" /></a>
