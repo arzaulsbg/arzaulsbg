@@ -31,14 +31,6 @@
 
 ---
 
-## ⚙️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,nextjs,nodejs,express,mongodb,postgres,mysql,docker,aws,firebase,git&perline=8" />
-</p>
-
----
-
 ## 📊 GitHub Insights  
 
 <p align="center">
