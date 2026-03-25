@@ -34,7 +34,7 @@
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arzaulsbg&show_icons=true&theme=transparent&hide_border=true&title_color=8BE9FD&text_color=ffffff&icon_color=8BE9FD"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arzaulsbg&show_icons=true&theme=highcontrast&hide_border=true&title_color=8BE9FD&text_color=ffffff&icon_color=8BE9FD"/>
   
   <img height="160" src="https://streak-stats.demolab.com?user=arzaulsbg&theme=transparent&hide_border=true&ring=8BE9FD&fire=8BE9FD&currStreakLabel=8BE9FD"/>
 </p>
