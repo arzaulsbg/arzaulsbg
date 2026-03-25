@@ -1,4 +1,11 @@
 <!-- Gradient Header -->
+<h1> Hi 👋, I'm Mohd. Arzaul Haque</h1>
+
+<h3 >
+🚀 AI/ML Engineer in Progress | 💻 Full Stack Developer | 🧠 DSA Enthusiast
+</h3>
+
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohd.%20Arzaul%20Haque&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
