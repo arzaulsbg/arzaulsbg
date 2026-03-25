@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&color=8BE9FD&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Full+Stack+Developer;DSA+Problem+Solver;Salesforce+Certified;Building+Impactful+Projects" />
 </p>
-##👨‍💻 About Me  
+# 👨‍💻 About Me  
 
 - 🎓 B.Tech in **AI & Data Science**  
 - 💡 Passionate about **building scalable + intelligent systems**  
@@ -15,7 +15,7 @@
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ---
-##🌐 Connect With Me  
+# 🌐 Connect With Me  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arzaulhaquesbg1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arzaulhaque40) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arzaulhaque) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArzaulHaque123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arzaulhaquesbg@gmail.com )
 
 ---
