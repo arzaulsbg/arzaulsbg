@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&color=8BE9FD&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Full+Stack+Developer;DSA+Problem+Solver;Salesforce+Certified;Building+Impactful+Projects" />
 </p>
-## 👨‍💻 About Me  
+👨‍💻 About Me  
 
 - 🎓 B.Tech in **AI & Data Science**  
 - 💡 Passionate about **building scalable + intelligent systems**  
@@ -28,7 +28,7 @@
 ---
 <!-- Snake Game Repo View --> 
 <div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
----
+
 
 ## 📊 GitHub Insights  
 
