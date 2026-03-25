@@ -30,6 +30,12 @@
 </p>
 
 ---
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arzaulsbg/arzaulsbg/output/github-contribution-grid-snake.svg" />
+</p>
+---
 
 ## 📊 GitHub Insights  
 
@@ -53,7 +59,7 @@
 
 ---
 
-### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) ---
+### ✍️ Random Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 ---
 
