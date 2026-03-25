@@ -17,12 +17,7 @@
 
 ---
 ## 🌐 Connect With Me  
-<p >
-  <a href="https://linkedin.com/in/arzaulaque"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:arzaulhaquesbg@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://instagram.com/arzaulaque40"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://x.com/ArzaulHaque123"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arzaulhaquesbg1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arzaulhaque40) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arzaulhaque) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArzaulHaque123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arzaulhaquesbg@gmail.com )
 
 ---
 ## ⚡ Tech Stack  
