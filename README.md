@@ -4,10 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&color=8BE9FD&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Full+Stack+Developer;DSA+Problem+Solver;Salesforce+Certified;Building+Impactful+Projects" />
 </p>
-
 ---
----
-
 ## 👨‍💻 About Me  
 
 - 🎓 B.Tech in **AI & Data Science**  
@@ -15,6 +12,22 @@
 - 🧠 Strong in **DSA, Backend Development, and ML**  
 - 🌱 Currently exploring **Spring Boot & System Design**  
 - 🤝 Open to **internships & collaborations**  
+
+---
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/arzaulaque"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:arzaulhaquesbg@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://instagram.com/arzaulaque40"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://x.com/ArzaulHaque123"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
+
+---
+## ⚡ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,nodejs,nextjs,express,mongodb,mysql,postgres,aws,docker,firebase,git" />
+</p>
 
 ---
 
