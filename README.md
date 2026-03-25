@@ -21,11 +21,6 @@
   <a href="https://instagram.com/arzaulaque40"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://x.com/ArzaulHaque123"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
-## 🌐 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/arzaulaque  
-- 📷 Instagram: https://instagram.com/arzaulaque40  
-- 🐦 X (Twitter): https://x.com/ArzaulHaque123  
-- 📘 Facebook: https://facebook.com/arzaulhaquesbg1  
 
 ---
 ## ⚡ Tech Stack  
