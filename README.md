@@ -1,22 +1,5 @@
-<!-- Gradient Header -->
-<h1> Hi 👋, I'm Mohd. Arzaul Haque</h1>
-
-<h3 >
-🚀 AI/ML Engineer in Progress | 💻 Full Stack Developer | 🧠 DSA Enthusiast
-</h3>
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohd.%20Arzaul%20Haque&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-  <h3 >
-🚀 AI/ML Engineer in Progress | 💻 Full Stack Developer | 🧠 DSA Enthusiast
-</h3>
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&color=8BE9FD&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer+in+Progress;Full+Stack+Developer;DSA+Problem+Solver;Building+Impactful+Projects;Salesforce+Certified" />
-</p>
+# 💫 Hi 👋, I'm Mohd. Arzaul Haque  
+**AI/ML Student | DSA Problem Solver | Full Stack Developer | Salesforce Certified**
 
 ---
 
