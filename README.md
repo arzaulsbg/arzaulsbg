@@ -11,7 +11,9 @@
 - 💡 Passionate about **building scalable + intelligent systems**  
 - 🧠 Strong in **DSA, Backend Development, and ML**  
 - 🌱 Currently exploring **Spring Boot & System Design**  
-- 🤝 Open to **internships & collaborations**  
+- 🤝 Open to **internships & collaborations**
+- 📫 **How to reach me:** arzaulhaquesbg@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ---
 ## 🌐 Connect With Me  
